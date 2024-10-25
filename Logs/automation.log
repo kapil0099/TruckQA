@@ -1,0 +1,27 @@
+2024-10-24 16:43:40 - INFO - Logging system initialized successfully.
+2024-10-24 16:43:42 - INFO - ************** Test_001_login **************
+2024-10-24 16:43:42 - INFO - ************** Verifying Homepage Title **************
+2024-10-24 16:43:57 - INFO - ************** Homepage Title Test is Passed **************
+2024-10-24 16:43:58 - INFO - ************** Verifying Login Test **************
+2024-10-24 16:44:21 - INFO - ************** Login Test is Passed **************
+2024-10-24 16:44:23 - INFO - ************** Test_002_DDT_Login **************
+2024-10-24 16:44:23 - INFO - ************** Verifying Login Test **************
+2024-10-24 16:44:48 - INFO - ********** Passed ********
+2024-10-24 16:45:04 - INFO - ********** Passed ********
+2024-10-24 16:45:20 - INFO - ********** Passed ********
+2024-10-24 16:45:25 - INFO - ********** Passed ********
+2024-10-24 16:45:25 - INFO - ***** Login DDT test passed ******
+2024-10-24 16:45:26 - INFO - *********** End of Login DDT test *********
+2024-10-24 16:45:26 - INFO - *********** Completed Test_002_DDT_Login *********
+2024-10-24 16:45:27 - INFO - *********** Test_003_SignUp ************
+2024-10-24 16:45:27 - INFO - ************** Starting Signing Up **************
+2024-10-24 16:46:07 - INFO - *************** Saving user info ***************
+2024-10-24 16:46:18 - ERROR - ************** SignUp Test is Failed **************
+2024-10-25 08:19:41 - INFO - Logging system initialized successfully.
+2024-10-25 08:20:33 - INFO - Logging system initialized successfully.
+2024-10-25 08:20:47 - INFO - ************** Verifying Login Test **************
+2024-10-25 08:21:20 - INFO - ************** Login Test is Passed **************
+2024-10-25 08:21:22 - INFO - *********** Test_003_SignUp ************
+2024-10-25 08:21:22 - INFO - ************** Starting Signing Up **************
+2024-10-25 08:22:10 - INFO - *************** Saving user info ***************
+2024-10-25 08:22:10 - INFO - ************** SignUp Test is Passed **************
